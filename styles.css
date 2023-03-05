@@ -248,8 +248,6 @@ details[open] summary:after {
 
   .popup__logo {
     margin-top: 180px;
-    -webkit-filter: drop-shadow(5px 5px 4px #000000);
-    filter: drop-shadow(5px 5px 4px #000000);
   }
   .popup__subtitle{
     line-height: 40px;
