@@ -127,6 +127,7 @@ body{
   text-fill-color: transparent;
   margin-left: 26px;
   margin-bottom: 10px;
+  margin-right: 10px;
 }
 
 .popup__text {
@@ -251,6 +252,7 @@ details[open] summary:after {
   }
   .popup__subtitle{
     line-height: 40px;
+    
   }
 
   .popup__text {
